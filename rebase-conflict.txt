@@ -1,1 +1,6 @@
+
  this is for inside rebase conflict branch
+this for rebase-conflicts
+
+this is inside into master branch
+

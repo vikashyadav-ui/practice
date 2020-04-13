@@ -2,7 +2,11 @@ this my newbranch-second
 
 vikash yadav
 
+<<<<<<< HEAD
 s/o nagaraju
 
 
 kogira roddam mandal
+=======
+kogira 
+>>>>>>> a3c0b3a6253f1986d834260b9f3e2a9697ff4b62
